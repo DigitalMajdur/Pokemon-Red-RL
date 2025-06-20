@@ -17,5 +17,6 @@ Run it locally
   2. install requirements:
 
 run this code in ur repo directory cmd 
+
 pip install -r requirements.txt
 
